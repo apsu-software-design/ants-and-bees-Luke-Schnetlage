@@ -9,7 +9,7 @@
     },
     "include": [
         "src/**/*"
-    ],
+, "build/ants.js", "build/game.js", "build/ui.js", "build/game.js", "build/ants.js"    ],
     "exclude": [
         "node_modules"
     ]
